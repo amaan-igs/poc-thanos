@@ -1,0 +1,8 @@
+type: S3
+config:
+  bucket: "bucket-name"
+  access_key: "********************"
+  secret_key: "****************************************"
+  endpoint: "s3.eu-west-3.amazonaws.com"
+  region: "eu-west-3"
+  insecure: false
